@@ -14,4 +14,4 @@ mkdir build && cmake .. && make
 USAGE
 =====
 
-./compare input_file.txt output_file.txt th <optionale_scale_for_image_visualization>
+./compare input_file.txt output_file.txt th optionale_scale_for_image_visualization
